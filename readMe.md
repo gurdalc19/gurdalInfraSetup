@@ -1,4 +1,10 @@
-   ## Setup gcloud
+## Before you start
+	
+	In this projects for our java project we use https://github.com/gurdalc19/dreamCode
+	For the manifests we use https://github.com/gurdalc19/dreamManifast
+  --- 
+  
+  ## Setup gcloud
    ---
 
     gcloud init
